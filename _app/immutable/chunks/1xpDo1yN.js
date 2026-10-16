@@ -1,0 +1,1 @@
+import{n as e}from"./uJLcbzk3.js";import"./DvRDa2G0.js";var t=()=>`(externe site)`,n=()=>`(external site)`,r=((r={},i={})=>(i.locale??e())===`en`?n(r):t(r));export{r as t};
